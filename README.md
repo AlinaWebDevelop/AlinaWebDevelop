@@ -1,11 +1,11 @@
  <h3> Hi there. My name is Alina</h3>👋
  <hr>
-- 🌱 I’m currently learning React.js, Node.js, Redux
-- 👯 I’m looking to collaborate on any project. 
-- 💬 I speak English and Russian. About to learn French n Italian.
-- 📫 How to reach me: AlinaWebDevelop@gmail.com
-- 😄 Hiring me is the best decision of your life!)) And I'm learning fast if it needs.
-- ⚡ Fun fact: I'm obsessed with programming)))
+ 🌱 I’m currently learning React.js, Node.js, Redux <br>
+  👯 I’m looking to collaborate on any project. <br>
+ 💬 I speak English and Russian. About to learn French n Italian.<br>
+ 📫 How to reach me: AlinaWebDevelop@gmail.com<br>
+ 😄 Hiring me is the best decision of your life!)) And I'm learning fast if it needs.<br>
+ ⚡ Fun fact: I'm obsessed with programming)))<br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
