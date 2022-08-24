@@ -2,7 +2,7 @@
  <h3>Web developer</h3>
  <hr>
  
- <h3> About me </h3>
+ <h3><img src="https://img.icons8.com/color/48/000000/person-female.png" width="30px"/> About me </h3>
  🌱 I’m currently learning React.js, Node.js, Redux <br>
   👯 I’m looking to collaborate on any project. <br>
  💬 I speak English and Russian. About to learn French n Italian.<br>
@@ -11,7 +11,7 @@
  ⚡ Fun fact: I'm obsessed with programming)))<br>
  <hr>
  
- <h3>Languages & Tools</h3>
+ <h3><img src="https://img.icons8.com/emoji/48/000000/hammer-and-wrench.png" width="25px">Languages & Tools</h3>
  
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
