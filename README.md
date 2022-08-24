@@ -1,4 +1,5 @@
- <h3> Hi there. My name is Alina</h3>👋
+ <h2> Hi there, I'm Alina</h2>
+ <h3>Web developer</h3>
  <hr>
  🌱 I’m currently learning React.js, Node.js, Redux <br>
   👯 I’m looking to collaborate on any project. <br>
